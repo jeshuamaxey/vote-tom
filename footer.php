@@ -13,7 +13,12 @@ $bavotasan_theme_options = bavotasan_theme_options();
 	<footer id="footer" role="contentinfo">
 		<div id="footer-content" class="container">
 		<div class="row">
-			<img src=" <?php echo esc_url( home_url() ); ?>/wp-content/themes/vote-tom/img/election-colour-footer.png" alt="">
+			<a class="footer-img-link" href="http://votetom.in/flappy-tom">
+				<img src=" <?php echo esc_url( home_url() ); ?>/wp-content/themes/vote-tom/img/play-flappy-tom.png" alt="Play Flappy Tom!">
+			</a>
+			<a href="http://vote.union.ic.ac.uk" class="footer-img-link">
+				<img src=" <?php echo esc_url( home_url() ); ?>/wp-content/themes/vote-tom/img/election-colour-footer.png" alt="Vote ICU">
+			</a>
 		</div>
 			<div class="row">
 				<div class="copyright col-lg-12">
