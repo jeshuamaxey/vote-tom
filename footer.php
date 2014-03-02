@@ -16,7 +16,7 @@ $bavotasan_theme_options = bavotasan_theme_options();
 			<a class="footer-img-link" href="http://votetom.in/flappy-tom">
 				<img src=" <?php echo esc_url( home_url() ); ?>/wp-content/themes/vote-tom/img/play-flappy-tom.png" alt="Play Flappy Tom!">
 			</a>
-			<a href="imperialcollegeunion.org/elections" class="footer-img-link">
+			<a href="http://imperialcollegeunion.org/elections" class="footer-img-link">
 				<img src=" <?php echo esc_url( home_url() ); ?>/wp-content/themes/vote-tom/img/election-colour-footer.png" alt="Vote ICU">
 			</a>
 		</div>
