@@ -8265,6 +8265,18 @@ a img.aligncenter {
 }
 
 /*
+* HEADER HACKS
+*/
+
+.home #site-title .char1 {
+  margin-left: 30px;
+}
+
+.home #site-title .char5 {
+  margin-left: 150px; 
+}
+
+/*
 *
 */
 
