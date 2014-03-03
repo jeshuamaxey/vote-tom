@@ -8276,6 +8276,22 @@ a img.aligncenter {
   margin-left: 150px; 
 }
 
+@media all and (max-width: 460px) {
+  .home #site-title .char1 {
+    margin-left: 0;
+  }
+  .home #site-title .char5 {
+    margin-left: 0;
+  }
+  .home #site-title {
+    padding-top: 120px;
+  }
+}
+
+/*
+* HIDE BLOG THING
+*/
+
 .home #primary {
   display: none;
 }
