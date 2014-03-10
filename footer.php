@@ -31,7 +31,7 @@ $bavotasan_theme_options = bavotasan_theme_options();
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script>
 	var videoTitle = 'Learn more about Tom';
 	$('.home .page-header h1').html(videoTitle).css('text-align', 'center');
